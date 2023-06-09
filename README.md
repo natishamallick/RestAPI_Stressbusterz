@@ -1,4 +1,5 @@
-StressBusterz
+StressBusterz - Group Mini Project 
+Team Members- Natisha Mallick & Mohammed Abdullah
 https://www.youtube.com/watch?v=3fEtdyr8YOU 
 
 This is an application built using Python, Flask and uses Google Cloud.
